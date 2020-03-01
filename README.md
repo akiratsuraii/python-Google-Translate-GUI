@@ -7,9 +7,12 @@
 	other language > cn(mostly cn,detect by google )
 
 # module 
-	requests
-	pyqt5
+	js	  (js.py)
 	js2py
+	pyqt5
+	tkinter
+	requests
+	
 
 # base on
 https://www.cnblogs.com/by-dream/p/6554340.html
