@@ -6,7 +6,7 @@
 	eng>cn
 	other language > cn(mostly cn,detect by google )
 
-# module 
+# modules 
 	js	  (js.py)
 	js2py
 	pyqt5
